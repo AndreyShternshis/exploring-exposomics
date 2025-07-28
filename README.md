@@ -43,4 +43,4 @@ Files generated in some tabs and may be required in others follow. The most of f
 - Files with _unanot tag include unannotated data.
 - Metric_i.npy represent a measure _Metric_ calculated at time point _i_. Where _0 means using all time points.
 - ICC.npy and DF.npy are intercalss correlation and detection frequency calculated for all features.
--   Results_mean_{Method}.npy and Results_std_{Method} are mean and standard deviation of accuraccy of participants clustering.
+-   Results_mean_Method.npy and Results_std_Method are mean and standard deviation of accuraccy of participants clustering by a visualization _Method_.
