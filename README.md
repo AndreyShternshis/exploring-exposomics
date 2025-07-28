@@ -2,6 +2,8 @@
 
 **Data is extracred from the following files**
 
+The tool produces results from paper "Modeling and exploring co-exposures to environmental chemicals and endogenous metabolites". It allows to obtain additional results or apply it to other exposome data.
+
 Original file names are used below:
 - "3WP_LC_samples_6_visits": Metadata containing subjects' id and visit number
 - "Data/S3WP_annotated_Levels_1_2_pos&neg": 519 annotated features followed by Labels of samples e.g. subject's id, visit number, sex, age, etc. Each feature has class, sublclass, description, and name.
