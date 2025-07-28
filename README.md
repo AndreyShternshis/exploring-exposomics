@@ -1,6 +1,6 @@
 # Tool for exploring exposome datasets and co-exposures
 
-The tool produces results from paper "Modeling and exploring co-exposures to environmental chemicals and endogenous metabolites". It allows to obtain additional results or apply it to other exposome data.
+The tool produces results from paper "Modeling and exploring co-exposures to environmental chemicals and endogenous metabolites". It allows to analyze data, obtain results complementing the paper, or apply it to other exposome data.
 
 **Instructions**
 
