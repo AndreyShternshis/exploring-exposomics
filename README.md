@@ -10,7 +10,7 @@ All packages and their versions are listed in requirements.txt.
 
 Run all cells and scroll to the tool - the last cell of the notebook.
 
-<img width="967" height="860" alt="image" src="https://github.com/user-attachments/assets/1ef51b19-0580-41ea-927e-8ef3b0c8929f" />
+<img width="484" height="430" alt="image" src="https://github.com/user-attachments/assets/1ef51b19-0580-41ea-927e-8ef3b0c8929f" />
 
 
 **Data is extracred from the following files**
