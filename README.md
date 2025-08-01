@@ -6,7 +6,7 @@ The tool produces results from paper "Modeling and exploring co-exposures to env
 
 The tool is done on the format of python notebook _Exp(2)-v1.ipynb_. Tabs with all functioaliity are followed by all function and methods.
 
-All packages and their versions are listed in requirements.txt.
+All packages and their versions are listed in requirements.txt. They can be installed by coomand !pip install -r requirements.txt.
 
 Run all cells and scroll to the tool - the last cell of the notebook.
 
