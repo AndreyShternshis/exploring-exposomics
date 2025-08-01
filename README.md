@@ -26,7 +26,7 @@ Original file names are used below:
 -  "S3WP_LC_unannotaed_pos_final": unannotated features discovered in the positive mode
 
 **Data speciality**
-- For annotated data, one sample, 200th in metadata, has excessive number of 0s and it is considered as an outlier
+- For annotated data, one sample, 200th in metadata, has excessive number of zeros and it is considered as an outlier
 - For unannotated data, the second time point of two participants was swapped.
 
 **Outputs**
