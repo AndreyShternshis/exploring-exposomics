@@ -10,7 +10,8 @@ All packages and their versions are listed in requirements.txt. They can be inst
 
 Run all cells and scroll to the tool - the last cell of the notebook.
 
-<img width="484" height="430" alt="image" src="https://github.com/user-attachments/assets/1ef51b19-0580-41ea-927e-8ef3b0c8929f" />
+<img width="639" height="626" alt="image" src="https://github.com/user-attachments/assets/cf230b8c-f6ea-4902-bfcb-c55011aaea68" />
+
 
 To access a python notebook in a local computer, one can launch Jupyter Notebook or JupyterLab via Anaconda Navigator https://www.anaconda.com.
 
