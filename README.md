@@ -1,10 +1,10 @@
 # Tool for exploring exposome datasets and co-exposures
 
-The tool produces results from paper "Modeling and exploring co-exposures to environmental chemicals and endogenous metabolites". It allows a user to analyze data, obtain results complementing the paper, or apply it to other exposome data.
+The tool produces results from paper "Modeling human exposures to environmental chemicals and metabolites in a prospective cohort". It allows a user to analyze data, obtain results complementing the paper, or apply it to other exposome data.
 
 **Instructions**
 
-The tool is done in the format of python notebook _Exp(2)-v1.ipynb_. Tabs with all functionality are followed by all functions and methods.
+The tool is done in the format of python notebook _Exp2ML-v1.ipynb_. Tabs with all functionality are followed by all functions and methods.
 
 All packages and their versions are listed in requirements.txt. They can be installed by command !pip install -r requirements.txt.
 
